@@ -12,6 +12,7 @@
 
 <p> - Installer wamp ou xampp </p>
 <p> - cloner le projet </p>
+<p> - créer une database vide avec le titre : "securite" </p>
 <p> - Installer composer : "composer install" </p>
 <p> - Copier le fichier .env.example à un nouveau fichier .env dans la racine</p>
 <p> - Exécuter les commandes suivantes : </p>
@@ -19,6 +20,10 @@
 <p> "php artisan migrate" </p>
 <p> "php artisan serve" </p>
 <p> - trouver l'application sur : http://localhost:8000/login </p>
+
+## Aperçu :<br>
+![image](https://user-images.githubusercontent.com/59490844/217927777-40d1fc34-078d-4a49-8260-371a4f006076.png)
+
 
 
 
