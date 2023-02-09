@@ -12,12 +12,13 @@
 
 <p> - Installer wamp ou xampp </p>
 <p> - cloner le projet </p>
-<p> - Installer composer : </p>
-composer install
+<p> - Installer composer : "composer install" </p>
+<p> - Copier le fichier .env.example à un nouveau fichier .env dans la racine</p>
 <p> - Exécuter les commandes suivantes : </p>
-<p> php artisan key:generate </p> 
-<p> php artisan migrate </p>
-<p> php artisan serve </p>
+<p> "php artisan key:generate" </p> 
+<p> "php artisan migrate" </p>
+<p> "php artisan serve" </p>
+<p> - trouver l'application sur : http://localhost:8000/ </p>
 
 
 
