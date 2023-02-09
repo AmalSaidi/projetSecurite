@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # projetSecurite
 =======
 <p>Ce projet est lié à la sécurité des systèmes d'informations, il représente un formulaire de login sécurité ainsi que la possiblité de créer un nouveau utilisateur grâce à un autre formulaire d'inscription. </p>
