@@ -9,11 +9,17 @@
 <p>- Un système d'authentification fort.</p>
 
 ## Installation <br>
-<p>
-- Installer composer : </p>
-```
-composer global require "laravel/installer"
-```
+
+<p> - Installer wamp ou xampp </p>
+<p> - cloner le projet </p>
+<p> - Installer composer : </p>
+composer install
+<p> - Exécuter les commandes suivantes : </p>
+<p> php artisan key:generate </p> 
+<p> php artisan migrate </p>
+<p> php artisan serve </p>
+
+
 
 
 
