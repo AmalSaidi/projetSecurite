@@ -11,11 +11,9 @@
 ## Installation <br>
 <p>
 - Installer composer : </p>
-````
 ```
 composer global require "laravel/installer"
 ```
-````
 
 
 
