@@ -18,7 +18,7 @@
 <p> "php artisan key:generate" </p> 
 <p> "php artisan migrate" </p>
 <p> "php artisan serve" </p>
-<p> - trouver l'application sur : http://localhost:8000/ </p>
+<p> - trouver l'application sur : http://localhost:8000/login </p>
 
 
 
