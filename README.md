@@ -2,6 +2,13 @@
 # projetSecurite
 =======
 <p>Ce projet est lié à la sécurité des systèmes d'informations, il représente un formulaire de login sécurité ainsi que la possiblité de créer un nouveau utilisateur grâce à un autre formulaire</p>
+<p>Pour cela le framework Laravel a été utilisé puisqu'il est un des frameworks les plus sécurisés pour plusieurs raisons :</p>
+- Protéger l'application de l'injection SQL.
+- Protéger l'application des attaques CSRF , XSS ...
+- Sécuriser les API Laravel avec Auth0.
+- Un système d'authentification fort.
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
